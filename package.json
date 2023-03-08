@@ -1,12 +1,12 @@
 {
   "name": "twitter-card",
   "private": true,
-  "homepage": "http://Ernestoc14.github.io/React-Vitejs",
+  "homepage": "https://Ernestoc14.github.io/React-Vitejs/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
